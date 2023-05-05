@@ -124,6 +124,8 @@ HRESULT __stdcall hkPresent(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT 
 	static bool bOHKCheckbox = false;
 	static bool bRSECheckbox = false;
 	static bool bultCheckbox = false;
+	static bool bNCLPCheckbox = false;
+	static bool bnomrmalCheckbox = false;
 	static bool bECheckbox = false;
 	static bool bGMCheckbox = false;
 	static bool binbattlecheckbox = false;
@@ -153,8 +155,8 @@ HRESULT __stdcall hkPresent(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT 
 						LOG_INFO("I am not an expert in creating cheat just inserting offsets from [Discuss] Honkai: Star Rail and special thanks to Z4ee I learned a lot from you");
 					}
 					ImGui::Checkbox("Speed Hack", &myCheckbox);
-					ImGui::Checkbox("Noclip", &myCheckbox);
-					ImGui::Checkbox("Normal World Skill Point", &myCheckbox);
+					ImGui::Checkbox("Noclip", &bNCLPCheckbox);
+					ImGui::Checkbox("Normal World Skill Point", &bnomrmalCheckbox);
 					ImGui::Checkbox("Peeking", &bRSECheckbox);
 					
 				} else{

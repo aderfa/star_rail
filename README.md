@@ -18,13 +18,16 @@ for
 hook::init(void) bugs you can add minhook first then recompile, if you already add but doesn't work try readd and reopen vscode
 
 this is how to add mihook library
+.
 ![image](https://user-images.githubusercontent.com/77231874/236647702-4bf510b4-0077-4a06-843d-f0565b362a00.png)
 
+.
 go to input
 
 ![image](https://user-images.githubusercontent.com/77231874/236647789-b072ea0e-1952-4c3f-a3bb-d376874e2755.png)
-
+<br>
 there are 2 minhooks you can put them in the ImGui DirectX 11 Kiero Hook and kiero default minhook folders in ImGui DirectX 11 Kiero Hook\kiero\minhook\include
+<br>
 ![image](https://user-images.githubusercontent.com/77231874/236647852-bdd87561-390a-49be-b7b4-c6973bdfd87e.png)
 
 if u meet EasyPeasy error you can remove it from Refrences then recompile

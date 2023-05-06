@@ -1,7 +1,5 @@
-#include "minhook.h"
 #include "includes.h"
 #include "utils.h"
-#include "MinHook.h"
 #include <windows.h>
 #include <iostream>
 #include <vector>

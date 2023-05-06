@@ -12,7 +12,7 @@
 #include "BypassEnable.h"
 #include "kntl.h"
 #include "Logger.h"
-#include "MinHook.h"
+#include "kiero/minhook/include/MinHook.h"
 #include "FpsUnlock.h"
 #include "sh.h"
 #include "ult.h"

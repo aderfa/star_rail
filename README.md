@@ -2,6 +2,8 @@ SOURCE FOR STAR RAIL CHEAT
 
 WITH KIERO IMGUI
 
+fyi if you complaint about imgui who make u tired open and close or something i just want say sorry i just code this shit for 3-5 hours
+
 I REMOVE SOME CODE BECAUSE I WANT HEHEHEHEHEHEH
 i remove some feature for public like bypass for refill energy etc
 you can wait for akebi i saw taiga code the cheat for this game
